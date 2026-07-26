@@ -1,0 +1,587 @@
+{
+  "test_date": "2026-08-16",
+  "start_date": "2026-07-27",
+  "total_days": 20,
+  "chapter_days": 16,
+  "revision_days": 4,
+  "total_chapters_left": 31,
+  "subject_summary": [
+    {
+      "subject": "Biology",
+      "chapters_left": 13
+    },
+    {
+      "subject": "Chemistry",
+      "chapters_left": 6
+    },
+    {
+      "subject": "Physics",
+      "chapters_left": 12
+    }
+  ],
+  "chapter_timing": {
+    "biology": [
+      {
+        "name": "1. Acellular Life",
+        "difficulty": "Short"
+      },
+      {
+        "name": "2. Bioenergetics",
+        "difficulty": "Short"
+      },
+      {
+        "name": "3. Biological Molecules",
+        "difficulty": "Long"
+      },
+      {
+        "name": "4. Cell Structure & Function",
+        "difficulty": "Stoichiometry"
+      },
+      {
+        "name": "5. Coordination & Control / Nervous & Chemical Coordination",
+        "difficulty": "Hard and Long - main focus"
+      },
+      {
+        "name": "6. Enzymes",
+        "difficulty": "Moderate"
+      },
+      {
+        "name": "7. Evolution",
+        "difficulty": "Short"
+      },
+      {
+        "name": "8. Reproduction",
+        "difficulty": "Moderate"
+      },
+      {
+        "name": "10. Inheritance",
+        "difficulty": "Hard - drill problems"
+      },
+      {
+        "name": "11. Circulation",
+        "difficulty": "Moderate"
+      },
+      {
+        "name": "13. Respiration",
+        "difficulty": "Hard"
+      },
+      {
+        "name": "14. Digestion",
+        "difficulty": "Moderate"
+      },
+      {
+        "name": "16. Biotechnology",
+        "difficulty": "Short"
+      }
+    ],
+    "physics": [
+      {
+        "name": "3. Work and Energy",
+        "difficulty": "Moderate"
+      },
+      {
+        "name": "4. Rotational and Circular Motion",
+        "difficulty": "Hard"
+      },
+      {
+        "name": "5. Fluid Dynamics",
+        "difficulty": "Moderate"
+      },
+      {
+        "name": "6. Waves",
+        "difficulty": "Hard"
+      },
+      {
+        "name": "7. Thermodynamics",
+        "difficulty": "Hard"
+      },
+      {
+        "name": "8. Electrostatics",
+        "difficulty": "Hard"
+      },
+      {
+        "name": "9. Current Electricity",
+        "difficulty": "Moderate"
+      },
+      {
+        "name": "12. Alternating Current",
+        "difficulty": "Moderate"
+      },
+      {
+        "name": "13. Electronics",
+        "difficulty": "Moderate"
+      },
+      {
+        "name": "14. Dawn of Modern Physics",
+        "difficulty": "Moderate"
+      },
+      {
+        "name": "15. Atomic Spectra",
+        "difficulty": "Not specified"
+      },
+      {
+        "name": "16. Nuclear Physics",
+        "difficulty": "Not specified"
+      }
+    ],
+    "chemistry": [
+      {
+        "name": "12. Transition Elements",
+        "difficulty": "Short"
+      },
+      {
+        "name": "13. Fundamental Principles of Organic Chemistry",
+        "difficulty": "Long"
+      },
+      {
+        "name": "14. Chemistry of Hydrocarbons",
+        "difficulty": "Long"
+      },
+      {
+        "name": "16. Alcohols and Phenols",
+        "difficulty": "Hard"
+      },
+      {
+        "name": "17. Aldehydes and Ketones",
+        "difficulty": "Hard"
+      },
+      {
+        "name": "18. Carboxylic Acids",
+        "difficulty": "Moderate"
+      }
+    ]
+  },
+  "daily_routine": [
+    {
+      "time": "6:00 - 7:00 AM",
+      "activity": "Fajr + Light Yoga",
+      "duration": "1h"
+    },
+    {
+      "time": "7:00 - 10:30 AM",
+      "activity": "Study Block 1",
+      "duration": "3.5h"
+    },
+    {
+      "time": "10:30 - 11:00 AM",
+      "activity": "Breakfast / Break",
+      "duration": "0.5h"
+    },
+    {
+      "time": "11:00 AM - 2:30 PM",
+      "activity": "Study Block 2",
+      "duration": "3.5h"
+    },
+    {
+      "time": "2:30 - 3:30 PM",
+      "activity": "Lunch + Zuhr",
+      "duration": "1h"
+    },
+    {
+      "time": "3:30 - 7:00 PM",
+      "activity": "Study Block 3",
+      "duration": "3.5h"
+    },
+    {
+      "time": "7:00 - 8:00 PM",
+      "activity": "Break / Asr / Maghrib",
+      "duration": "1h"
+    },
+    {
+      "time": "8:00 - 11:00 PM",
+      "activity": "Test Prep / MCQs",
+      "duration": "3h"
+    },
+    {
+      "time": "11:00 PM - 6:00 AM",
+      "activity": "Sleep",
+      "duration": "7h"
+    }
+  ],
+  "days": [
+    {
+      "id": "day-1",
+      "day_number": 1,
+      "phase": "chapters",
+      "approx_hours": null,
+      "focus": null,
+      "tasks": [
+        {
+          "id": "day-1-t1",
+          "label": "Bio: Acellular Life (Short)"
+        },
+        {
+          "id": "day-1-t2",
+          "label": "Bio: Bioenergetics (Short)"
+        },
+        {
+          "id": "day-1-t3",
+          "label": "Physics: Work & Energy (Moderate)"
+        },
+        {
+          "id": "day-1-t4",
+          "label": "Chem: Transition Elements (Short) — finish"
+        }
+      ]
+    },
+    {
+      "id": "day-2",
+      "day_number": 2,
+      "phase": "chapters",
+      "approx_hours": null,
+      "focus": null,
+      "tasks": [
+        {
+          "id": "day-2-t1",
+          "label": "Bio: Coordination & Control — Part 1 (main focus)"
+        },
+        {
+          "id": "day-2-t2",
+          "label": "Chem Revision: Transition Elements"
+        }
+      ]
+    },
+    {
+      "id": "day-3",
+      "day_number": 3,
+      "phase": "chapters",
+      "approx_hours": null,
+      "focus": null,
+      "tasks": [
+        {
+          "id": "day-3-t1",
+          "label": "Physics: Rotational & Circular Motion (Hard)"
+        },
+        {
+          "id": "day-3-t2",
+          "label": "Bio: Evolution (Short)"
+        },
+        {
+          "id": "day-3-t3",
+          "label": "Chem: Fundamental Principles of Organic Chemistry — Part 1"
+        }
+      ]
+    },
+    {
+      "id": "day-4",
+      "day_number": 4,
+      "phase": "chapters",
+      "approx_hours": null,
+      "focus": null,
+      "tasks": [
+        {
+          "id": "day-4-t1",
+          "label": "Chem: Fundamental Principles of Organic Chemistry — Part 2 — finish"
+        },
+        {
+          "id": "day-4-t2",
+          "label": "Physics: Fluid Dynamics (Moderate)"
+        }
+      ]
+    },
+    {
+      "id": "day-5",
+      "day_number": 5,
+      "phase": "chapters",
+      "approx_hours": null,
+      "focus": null,
+      "tasks": [
+        {
+          "id": "day-5-t1",
+          "label": "Bio: Coordination & Control — Part 2 — finish"
+        },
+        {
+          "id": "day-5-t2",
+          "label": "Physics: Current Electricity (Moderate)"
+        },
+        {
+          "id": "day-5-t3",
+          "label": "Chem: Chemistry of Hydrocarbons — Part 1"
+        }
+      ]
+    },
+    {
+      "id": "day-6",
+      "day_number": 6,
+      "phase": "chapters",
+      "approx_hours": null,
+      "focus": null,
+      "tasks": [
+        {
+          "id": "day-6-t1",
+          "label": "Bio: Inheritance (Hard — drills)"
+        },
+        {
+          "id": "day-6-t2",
+          "label": "Chem Revision: Organic Chemistry Principles"
+        }
+      ]
+    },
+    {
+      "id": "day-7",
+      "day_number": 7,
+      "phase": "chapters",
+      "approx_hours": null,
+      "focus": null,
+      "tasks": [
+        {
+          "id": "day-7-t1",
+          "label": "Physics: Waves (Hard)"
+        },
+        {
+          "id": "day-7-t2",
+          "label": "Bio: Biotechnology (Short)"
+        },
+        {
+          "id": "day-7-t3",
+          "label": "Chem: Chemistry of Hydrocarbons — Part 2 — finish"
+        }
+      ]
+    },
+    {
+      "id": "day-8",
+      "day_number": 8,
+      "phase": "chapters",
+      "approx_hours": null,
+      "focus": null,
+      "tasks": [
+        {
+          "id": "day-8-t1",
+          "label": "Chem: Alcohols & Phenols — Part 1 (Hard)"
+        },
+        {
+          "id": "day-8-t2",
+          "label": "Physics: Alternating Current (Moderate)"
+        }
+      ]
+    },
+    {
+      "id": "day-9",
+      "day_number": 9,
+      "phase": "chapters",
+      "approx_hours": null,
+      "focus": null,
+      "tasks": [
+        {
+          "id": "day-9-t1",
+          "label": "Bio: Biological Molecules — Part 1 (Long)"
+        },
+        {
+          "id": "day-9-t2",
+          "label": "Physics: Electronics (Moderate)"
+        },
+        {
+          "id": "day-9-t3",
+          "label": "Chem: Alcohols & Phenols — Part 2 — finish"
+        }
+      ]
+    },
+    {
+      "id": "day-10",
+      "day_number": 10,
+      "phase": "chapters",
+      "approx_hours": null,
+      "focus": null,
+      "tasks": [
+        {
+          "id": "day-10-t1",
+          "label": "Bio: Biological Molecules — Part 2 — finish"
+        },
+        {
+          "id": "day-10-t2",
+          "label": "Bio: Cell Structure & Function"
+        },
+        {
+          "id": "day-10-t3",
+          "label": "Chem Revision: Hydrocarbons + Alcohols & Phenols"
+        }
+      ]
+    },
+    {
+      "id": "day-11",
+      "day_number": 11,
+      "phase": "chapters",
+      "approx_hours": null,
+      "focus": null,
+      "tasks": [
+        {
+          "id": "day-11-t1",
+          "label": "Physics: Thermodynamics (Hard)"
+        },
+        {
+          "id": "day-11-t2",
+          "label": "Bio: Enzymes"
+        },
+        {
+          "id": "day-11-t3",
+          "label": "Bio: Reproduction"
+        },
+        {
+          "id": "day-11-t4",
+          "label": "Chem: Aldehydes & Ketones — Part 1 (Hard)"
+        }
+      ]
+    },
+    {
+      "id": "day-12",
+      "day_number": 12,
+      "phase": "chapters",
+      "approx_hours": null,
+      "focus": null,
+      "tasks": [
+        {
+          "id": "day-12-t1",
+          "label": "Chem: Aldehydes & Ketones — Part 2 — finish"
+        },
+        {
+          "id": "day-12-t2",
+          "label": "Physics: Dawn of Modern Physics (Moderate)"
+        }
+      ]
+    },
+    {
+      "id": "day-13",
+      "day_number": 13,
+      "phase": "chapters",
+      "approx_hours": null,
+      "focus": null,
+      "tasks": [
+        {
+          "id": "day-13-t1",
+          "label": "Bio: Circulation"
+        },
+        {
+          "id": "day-13-t2",
+          "label": "Bio: Digestion — Biology complete"
+        },
+        {
+          "id": "day-13-t3",
+          "label": "Physics: Electrostatics (Hard)"
+        },
+        {
+          "id": "day-13-t4",
+          "label": "Chem: Carboxylic Acids — Part 1"
+        }
+      ]
+    },
+    {
+      "id": "day-14",
+      "day_number": 14,
+      "phase": "revision",
+      "approx_hours": null,
+      "focus": "Bio + Chem Revision — consolidate weak/hard chapters before the final physics + chemistry push.",
+      "tasks": [
+        {
+          "id": "day-14-t1",
+          "label": "Bio Revision: weak/hard chapters (Coordination, Inheritance, Respiration)"
+        },
+        {
+          "id": "day-14-t2",
+          "label": "Chem Revision: Aldehydes & Ketones + Carboxylic Acids"
+        }
+      ]
+    },
+    {
+      "id": "day-15",
+      "day_number": 15,
+      "phase": "revision",
+      "approx_hours": null,
+      "focus": "Physics (Hard) + Chem — Physics and Chemistry both wrap up today.",
+      "tasks": [
+        {
+          "id": "day-15-t1",
+          "label": "Physics: Full Revision — all 4 Hard chapters (Rotational, Waves, Thermo, Electrostatics) — Physics complete"
+        },
+        {
+          "id": "day-15-t2",
+          "label": "Chem: Carboxylic Acids — Part 2 — finish — Chemistry complete"
+        }
+      ]
+    },
+    {
+      "id": "day-16",
+      "day_number": 16,
+      "phase": "revision",
+      "approx_hours": null,
+      "focus": "Full Overall Revision — Bio + Physics + Chem quick recap, weak topics MCQ practice. Deadline: all 3 subjects complete by 11 August.",
+      "tasks": [
+        {
+          "id": "day-16-t1",
+          "label": "Quick recap of all three subjects (Bio + Physics + Chem)"
+        },
+        {
+          "id": "day-16-t2",
+          "label": "Weak topics MCQ practice"
+        }
+      ]
+    },
+    {
+      "id": "day-17",
+      "day_number": 17,
+      "phase": "revision",
+      "approx_hours": null,
+      "focus": "Full Biology Revision - all 13 chapters, key concepts + weak areas -> end: Biology Subject Test",
+      "tasks": [
+        {
+          "id": "day-17-t1",
+          "label": "Revise all 13 Biology chapters (key concepts + weak areas)"
+        },
+        {
+          "id": "day-17-t2",
+          "label": "Biology Subject Test"
+        }
+      ]
+    },
+    {
+      "id": "day-18",
+      "day_number": 18,
+      "phase": "revision",
+      "approx_hours": null,
+      "focus": "Full Chemistry Revision - all 6 chapters -> end: Chemistry Subject Test",
+      "tasks": [
+        {
+          "id": "day-18-t1",
+          "label": "Revise all 6 Chemistry chapters"
+        },
+        {
+          "id": "day-18-t2",
+          "label": "Chemistry Subject Test"
+        }
+      ]
+    },
+    {
+      "id": "day-19",
+      "day_number": 19,
+      "phase": "revision",
+      "approx_hours": null,
+      "focus": "Full Physics Revision - all 10 chapters -> end: Physics Subject Test",
+      "tasks": [
+        {
+          "id": "day-19-t1",
+          "label": "Revise all Physics chapters"
+        },
+        {
+          "id": "day-19-t2",
+          "label": "Physics Subject Test"
+        }
+      ]
+    },
+    {
+      "id": "day-20",
+      "day_number": 20,
+      "phase": "grand_test",
+      "approx_hours": null,
+      "focus": "GRAND TEST DAY - Full-length MDCAT-pattern paper (all 3 subjects, timed) + error analysis / weak topic list",
+      "tasks": [
+        {
+          "id": "day-20-t1",
+          "label": "Full-length MDCAT-pattern paper (all 3 subjects, timed)"
+        },
+        {
+          "id": "day-20-t2",
+          "label": "Error analysis / weak topic list"
+        }
+      ]
+    }
+  ]
+}

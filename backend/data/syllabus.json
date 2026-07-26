@@ -1,0 +1,2178 @@
+{
+  "exam": "MDCAT 2025",
+  "total_mcqs": 180,
+  "subjects": [
+    {
+      "key": "biology",
+      "label": "Biology",
+      "weightage_percent": 45,
+      "mcqs": 81,
+      "units": [
+        {
+          "id": "biology-u1",
+          "name": "1. Acellular Life",
+          "topics": [
+            {
+              "id": "biology-u1-t1",
+              "name": "Viruses",
+              "outcomes": [
+                "Classify viruses on basis of their structure/ number of strands/ diseases/ hosts etc."
+              ]
+            },
+            {
+              "id": "biology-u1-t2",
+              "name": "AIDS and HIV Infection",
+              "outcomes": [
+                "Identify symptoms, mode of transmission and cause of viral disease (AIDS)"
+              ]
+            }
+          ]
+        },
+        {
+          "id": "biology-u2",
+          "name": "2. Bioenergetics",
+          "topics": [
+            {
+              "id": "biology-u2-t1",
+              "name": "Respiration",
+              "outcomes": [
+                "Outline the cellular respiration of proteins and fats and correlate these with that of glucose."
+              ]
+            }
+          ]
+        },
+        {
+          "id": "biology-u3",
+          "name": "3. Biological Molecules",
+          "topics": [
+            {
+              "id": "biology-u3-t1",
+              "name": "Biological molecules",
+              "outcomes": [
+                "Define and classify biological molecules.",
+                "Discuss the importance of biological molecules"
+              ]
+            },
+            {
+              "id": "biology-u3-t2",
+              "name": "Biological Importance of Water",
+              "outcomes": [
+                "Describe biologically important properties of water (polarity, hydrolysis, specific heat, water as solvent and reagent, density, cohesion/ionization)"
+              ]
+            },
+            {
+              "id": "biology-u3-t3",
+              "name": "Carbohydrates",
+              "outcomes": [
+                "Discuss carbohydrates: monosaccharides (glucose), oligosaccharides (cane sugar, sucrose, lactose), polysaccharides (starches, cellulose, glycogen)"
+              ]
+            },
+            {
+              "id": "biology-u3-t4",
+              "name": "Proteins",
+              "outcomes": [
+                "Describe proteins: amino acids, structure of proteins"
+              ]
+            },
+            {
+              "id": "biology-u3-t5",
+              "name": "Lipids",
+              "outcomes": [
+                "Describe lipids: phospholipids, triglycerides, alcohol and esters (acylglycerol)"
+              ]
+            },
+            {
+              "id": "biology-u3-t6",
+              "name": "Ribonucleic acid (RNA)",
+              "outcomes": [
+                "Give an account of structure and function of RNA"
+              ]
+            },
+            {
+              "id": "biology-u3-t7",
+              "name": "Conjugated molecules",
+              "outcomes": [
+                "Discuss conjugated molecules (glyco lipids, glyco proteins)"
+              ]
+            },
+            {
+              "id": "biology-u3-t8",
+              "name": "Structure of DNA",
+              "outcomes": [
+                "Explain the double helical structure of DNA as proposed by Watson and Crick.",
+                "Define gene as a sequence of nucleotides as part of DNA, which codes for the formation of a polypeptide."
+              ]
+            }
+          ]
+        },
+        {
+          "id": "biology-u4",
+          "name": "4. Cell Structure & Function",
+          "topics": [
+            {
+              "id": "biology-u4-t1",
+              "name": "Cell structure",
+              "outcomes": [
+                "Compare the structure of typical animal and plant cell"
+              ]
+            },
+            {
+              "id": "biology-u4-t2",
+              "name": "Prokaryotic and Eukaryotic cell",
+              "outcomes": [
+                "Compare and contrast the structure of prokaryotic cells with eukaryotic cells"
+              ]
+            },
+            {
+              "id": "biology-u4-t3",
+              "name": "Cytoplasmic Organelles",
+              "outcomes": [
+                "Outline the structure and function of the following organelles: nucleus, Endoplasmic reticulum, Golgi apparatus and Mitochondria"
+              ]
+            },
+            {
+              "id": "biology-u4-t4",
+              "name": "Chromosomes",
+              "outcomes": [
+                "Describe the structure, chemical composition and function of chromosomes."
+              ]
+            }
+          ]
+        },
+        {
+          "id": "biology-u5",
+          "name": "5. Coordination & Control / Nervous & Chemical Coordination",
+          "topics": [
+            {
+              "id": "biology-u5-t1",
+              "name": "Receptors",
+              "outcomes": [
+                "Recognize receptors as transducers sensitive to various stimuli."
+              ]
+            },
+            {
+              "id": "biology-u5-t2",
+              "name": "Neurons",
+              "outcomes": [
+                "Explain the structure of a typical neuron (cell body, dendrites, axon and myelin sheath)",
+                "Define nerve impulse",
+                "Classify reflexes",
+                "Briefly explain the functions of components of a reflex arc"
+              ]
+            },
+            {
+              "id": "biology-u5-t3",
+              "name": "Brain",
+              "outcomes": [
+                "Discuss the main parts of the brain (e.g., components of brain stem, mid brain, cerebellum, cerebrum)",
+                "Describe the functions of each part."
+              ]
+            }
+          ]
+        },
+        {
+          "id": "biology-u6",
+          "name": "6. Enzymes",
+          "topics": [
+            {
+              "id": "biology-u6-t1",
+              "name": "Enzymes",
+              "outcomes": [
+                "Describe the distinguishing characteristics of enzymes"
+              ]
+            },
+            {
+              "id": "biology-u6-t2",
+              "name": "Mode of Enzyme Action",
+              "outcomes": [
+                "Explain mechanism of action of enzymes"
+              ]
+            },
+            {
+              "id": "biology-u6-t3",
+              "name": "Factors that Affect the Rate of Enzyme Reactions",
+              "outcomes": [
+                "Describe effects of factors on enzyme action (temperature, pH and concentration)"
+              ]
+            },
+            {
+              "id": "biology-u6-t4",
+              "name": "Inhibitors",
+              "outcomes": [
+                "Describe enzyme inhibitors"
+              ]
+            }
+          ]
+        },
+        {
+          "id": "biology-u7",
+          "name": "7. Evolution",
+          "topics": [
+            {
+              "id": "biology-u7-t1",
+              "name": "Concept of Evolution",
+              "outcomes": [
+                "Explain origin of life according to concept of evolution"
+              ]
+            },
+            {
+              "id": "biology-u7-t2",
+              "name": "Lamarckism",
+              "outcomes": [
+                "Describe the theory of inheritance of acquired characters, as proposed by Lamarck."
+              ]
+            },
+            {
+              "id": "biology-u7-t3",
+              "name": "Darwinism",
+              "outcomes": [
+                "Explain the theory of natural selection as proposed by Darwin"
+              ]
+            }
+          ]
+        },
+        {
+          "id": "biology-u8",
+          "name": "8. Reproduction",
+          "topics": [
+            {
+              "id": "biology-u8-t1",
+              "name": "Human Reproductive system",
+              "outcomes": [
+                "Describe the functions of various parts of the male & female reproductive systems and the hormones that regulate those functions"
+              ]
+            },
+            {
+              "id": "biology-u8-t2",
+              "name": "Menstrual cycle",
+              "outcomes": [
+                "Describe the menstrual cycle (female reproductive cycle) emphasizing the role of hormones"
+              ]
+            },
+            {
+              "id": "biology-u8-t3",
+              "name": "Sexually transmitted diseases",
+              "outcomes": [
+                "List the common sexually transmitted diseases along with their causative agents and main symptoms"
+              ]
+            }
+          ]
+        },
+        {
+          "id": "biology-u9",
+          "name": "9. Support & Movement",
+          "topics": [
+            {
+              "id": "biology-u9-t1",
+              "name": "Human skeleton",
+              "outcomes": [
+                "Describe cartilage, muscle and bone",
+                "Explain the main characteristics of cartilage and bone along with functions."
+              ]
+            },
+            {
+              "id": "biology-u9-t2",
+              "name": "Muscles",
+              "outcomes": [
+                "Compare characteristics of smooth muscles, cardiac muscles and skeletal muscles"
+              ]
+            },
+            {
+              "id": "biology-u9-t3",
+              "name": "Skeletal muscles",
+              "outcomes": [
+                "Explain the ultra-structure of skeletal muscles"
+              ]
+            },
+            {
+              "id": "biology-u9-t4",
+              "name": "Muscle contraction",
+              "outcomes": [
+                "Describe in brief the process of skeletal muscle contraction"
+              ]
+            },
+            {
+              "id": "biology-u9-t5",
+              "name": "Joints",
+              "outcomes": [
+                "Classify joints"
+              ]
+            },
+            {
+              "id": "biology-u9-t6",
+              "name": "Arthritis",
+              "outcomes": [
+                "Define arthritis"
+              ]
+            }
+          ]
+        },
+        {
+          "id": "biology-u10",
+          "name": "10. Inheritance",
+          "topics": [
+            {
+              "id": "biology-u10-t1",
+              "name": "Mendel's laws of Inheritance",
+              "outcomes": [
+                "Associate inheritance with the laws of Mendel.",
+                "Explain the law of independent assortment, using a suitable example."
+              ]
+            },
+            {
+              "id": "biology-u10-t2",
+              "name": "Gene linkage and crossing over",
+              "outcomes": [
+                "Describe the terms gene linkage and crossing over",
+                "Explain how gene linkage counters independent assortment and crossing-over modifies the progeny"
+              ]
+            },
+            {
+              "id": "biology-u10-t3",
+              "name": "X-linked Recessive inheritance",
+              "outcomes": [
+                "Describe the concept of sex-linkage.",
+                "Briefly describe inheritance of sex-linked traits",
+                "Analyze the inheritance of hemophilia."
+              ]
+            }
+          ]
+        },
+        {
+          "id": "biology-u11",
+          "name": "11. Circulation",
+          "topics": [
+            {
+              "id": "biology-u11-t1",
+              "name": "Human Heart",
+              "outcomes": [
+                "Discuss general structure of human heart"
+              ]
+            },
+            {
+              "id": "biology-u11-t2",
+              "name": "Cardiac cycle and phases of Heartbeat",
+              "outcomes": [
+                "Describe the phases of heartbeat."
+              ]
+            },
+            {
+              "id": "biology-u11-t3",
+              "name": "Blood Vessels",
+              "outcomes": [
+                "List the differences and functions of arteries, veins and capillaries."
+              ]
+            },
+            {
+              "id": "biology-u11-t4",
+              "name": "Lymphatic system",
+              "outcomes": [
+                "Describe lymphatic system (nodes, vessels and organs)"
+              ]
+            }
+          ]
+        },
+        {
+          "id": "biology-u12",
+          "name": "12. Immunity",
+          "topics": [
+            {
+              "id": "biology-u12-t1",
+              "name": "Specific Defense Mechanism",
+              "outcomes": [
+                "Define and discuss the functions and importance of specific defense mechanisms."
+              ]
+            }
+          ]
+        },
+        {
+          "id": "biology-u13",
+          "name": "13. Respiration",
+          "topics": [
+            {
+              "id": "biology-u13-t1",
+              "name": "Human Respiratory System",
+              "outcomes": [
+                "Discuss the functions of main parts of respiratory system.",
+                "Discuss the process of gas exchange in human lungs.",
+                "Discuss the effect of smoking on respiratory system."
+              ]
+            }
+          ]
+        },
+        {
+          "id": "biology-u14",
+          "name": "14. Digestion",
+          "topics": [
+            {
+              "id": "biology-u14-t1",
+              "name": "Human digestive system",
+              "outcomes": [
+                "Describe the parts of human digestive system",
+                "Explain the functions of the main parts of the digestive system including associated structures and glands"
+              ]
+            }
+          ]
+        },
+        {
+          "id": "biology-u15",
+          "name": "15. Homeostasis",
+          "topics": [
+            {
+              "id": "biology-u15-t1",
+              "name": "Urinary system / Kidney",
+              "outcomes": [
+                "Explain different organs of urinary system. Describe the structure of kidney and relate it with its function."
+              ]
+            },
+            {
+              "id": "biology-u15-t2",
+              "name": "Homeostasis (kidney specifically)",
+              "outcomes": [
+                "Explain the processes of glomerular filtration, selective re-absorption and tubular secretion as the events in kidney functioning.",
+                "Justify the functioning of kidneys as both excretion and osmoregulation.",
+                "Compare the function of two major capillary beds in kidney i.e. glomerular capillaries and peritubular capillaries.",
+                "Explain the causes and treatments of kidney stones.",
+                "Outline the causes of kidney failure."
+              ]
+            },
+            {
+              "id": "biology-u15-t3",
+              "name": "Thermoregulation",
+              "outcomes": [
+                "Describe thermoregulation and explain its needs."
+              ]
+            },
+            {
+              "id": "biology-u15-t4",
+              "name": "Excretion",
+              "outcomes": [
+                "List various nitrogenous compounds excreted during the process of excretion."
+              ]
+            }
+          ]
+        },
+        {
+          "id": "biology-u16",
+          "name": "16. Biotechnology",
+          "topics": [
+            {
+              "id": "biology-u16-t1",
+              "name": "Biotechnology and Health Care",
+              "outcomes": [
+                "Describe how biotechnologists can combat health problems by producing vaccines.",
+                "State the role played by biotechnology in disease diagnosis (DNA/RNA probes, monoclonal antibodies).",
+                "Describe what products biotechnologists obtain for use in disease treatment."
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "key": "chemistry",
+      "label": "Chemistry",
+      "weightage_percent": 25,
+      "mcqs": 45,
+      "units": [
+        {
+          "id": "chemistry-u1",
+          "name": "1. Introduction of Fundamental Concepts of Chemistry",
+          "topics": [
+            {
+              "id": "chemistry-u1-t1",
+              "name": "Moles and Avogadro's Number",
+              "outcomes": [
+                "Construct mole ratios from balanced equations for use as conversion factors in stoichiometric problems.",
+                "Perform stoichiometric calculations with balanced equations using moles, representative particles, masses and volumes of the gases (at STP)."
+              ]
+            },
+            {
+              "id": "chemistry-u1-t2",
+              "name": "Limiting and Excess Reactants",
+              "outcomes": [
+                "Explain the limiting reagent in reaction",
+                "Calculate the maximum number of products produced and the amount of any un-reacted excess reagent"
+              ]
+            },
+            {
+              "id": "chemistry-u1-t3",
+              "name": "Yield",
+              "outcomes": [
+                "Given information from which any two of the following may be determined, calculate the third: theoretical yield, actual yield, percentage yield.",
+                "Calculate the theoretical yield and the percent yield when given the balanced equation, the amount of reactants and the actual yield."
+              ]
+            }
+          ]
+        },
+        {
+          "id": "chemistry-u2",
+          "name": "2. Atomic Structure",
+          "topics": [
+            {
+              "id": "chemistry-u2-t1",
+              "name": "Discovery of Proton, Planck's Quantum Theory",
+              "outcomes": [
+                "Describe discovery and properties of proton (Positive rays)",
+                "Define Photon as a unit of radiation energy"
+              ]
+            },
+            {
+              "id": "chemistry-u2-t2",
+              "name": "Quantum Number",
+              "outcomes": [
+                "Describe the concept of orbitals.",
+                "Distinguish among Principal energy level, energy sub-level and atomic orbitals"
+              ]
+            },
+            {
+              "id": "chemistry-u2-t3",
+              "name": "Shapes of orbitals",
+              "outcomes": [
+                "Describe the general shapes of S, P and D orbitals."
+              ]
+            },
+            {
+              "id": "chemistry-u2-t4",
+              "name": "Spectrum of Hydrogen",
+              "outcomes": [
+                "Describe Hydrogen Atom using the quantum theory"
+              ]
+            },
+            {
+              "id": "chemistry-u2-t5",
+              "name": "Electronic Configuration",
+              "outcomes": [
+                "Use the Aufbau principle, the Pauli Exclusion Principle and Hund's Rule to write the Electronic Configuration of atoms.",
+                "Write electronic configuration of atoms"
+              ]
+            }
+          ]
+        },
+        {
+          "id": "chemistry-u3",
+          "name": "3. Gases",
+          "topics": [
+            {
+              "id": "chemistry-u3-t1",
+              "name": "Kinetic Molecular Theory",
+              "outcomes": [
+                "List the postulates of Kinetic Molecular Theory",
+                "Describe the motion of particles of the gas according to kinetic theory."
+              ]
+            },
+            {
+              "id": "chemistry-u3-t2",
+              "name": "Standard Temperature and Pressure (STP)",
+              "outcomes": [
+                "State the values of standard temperature and pressure (STP)"
+              ]
+            },
+            {
+              "id": "chemistry-u3-t3",
+              "name": "Boyle's Law",
+              "outcomes": [
+                "Describe the effect of change in pressure on the volume of gas."
+              ]
+            },
+            {
+              "id": "chemistry-u3-t4",
+              "name": "Charles's Law",
+              "outcomes": [
+                "Describe the effect of change in temperature on the volume of gas."
+              ]
+            },
+            {
+              "id": "chemistry-u3-t5",
+              "name": "Absolute Zero",
+              "outcomes": [
+                "Explain the significance of the absolute zero, giving its value in degree."
+              ]
+            },
+            {
+              "id": "chemistry-u3-t6",
+              "name": "Ideal Gas Equation",
+              "outcomes": [
+                "Derive Ideal Gas equation using Boyle's Law, Charle's Law and Avogadro's Law."
+              ]
+            },
+            {
+              "id": "chemistry-u3-t7",
+              "name": "Unit of 'R'",
+              "outcomes": [
+                "Explain the significance and different units of ideal gas constant."
+              ]
+            },
+            {
+              "id": "chemistry-u3-t8",
+              "name": "Real and Ideal Gas",
+              "outcomes": [
+                "Distinguish between Real and Ideal Gases."
+              ]
+            }
+          ]
+        },
+        {
+          "id": "chemistry-u4",
+          "name": "4. Liquids",
+          "topics": [
+            {
+              "id": "chemistry-u4-t1",
+              "name": "Properties of Liquids based on Kinetic Molecular Theory",
+              "outcomes": [
+                "Describe simple properties of liquids e.g. diffusion, compression, expansion, motion of molecules, spaces between them, inter molecular forces and kinetic energy based on kinetic molecular theory."
+              ]
+            },
+            {
+              "id": "chemistry-u4-t2",
+              "name": "Evaporation, Boiling point and Vapor Pressure",
+              "outcomes": [
+                "Explain physical properties of liquid such as evaporation, vapor pressure, boiling point"
+              ]
+            },
+            {
+              "id": "chemistry-u4-t3",
+              "name": "Hydrogen Bonding",
+              "outcomes": [
+                "Describe the hydrogen bonding in H2O, NH3 and HF molecules."
+              ]
+            },
+            {
+              "id": "chemistry-u4-t4",
+              "name": "Anomalous behavior of Water",
+              "outcomes": [
+                "Anomalous behavior of water when its density shows maximum at 4 degrees centigrade."
+              ]
+            }
+          ]
+        },
+        {
+          "id": "chemistry-u5",
+          "name": "5. Solid",
+          "topics": [
+            {
+              "id": "chemistry-u5-t1",
+              "name": "Crystalline Solids",
+              "outcomes": [
+                "Describe crystalline solid"
+              ]
+            },
+            {
+              "id": "chemistry-u5-t2",
+              "name": "Factors Affecting the Shape of Ionic Crystals",
+              "outcomes": [
+                "Name three factors that affect the shape of the ionic crystals."
+              ]
+            },
+            {
+              "id": "chemistry-u5-t3",
+              "name": "Difference between Ionic and Molecular Crystals",
+              "outcomes": [
+                "Give brief description of ionic and molecular crystals."
+              ]
+            },
+            {
+              "id": "chemistry-u5-t4",
+              "name": "Crystal lattice",
+              "outcomes": [
+                "Explain the structure of a crystal lattice"
+              ]
+            },
+            {
+              "id": "chemistry-u5-t5",
+              "name": "Lattice Energy",
+              "outcomes": [
+                "Define Lattice Energy"
+              ]
+            }
+          ]
+        },
+        {
+          "id": "chemistry-u6",
+          "name": "6. Chemical Equilibrium",
+          "topics": [
+            {
+              "id": "chemistry-u6-t1",
+              "name": "Chemical Equilibrium",
+              "outcomes": [
+                "Define chemical equilibrium in terms of reversible reaction.",
+                "Write both forward and reverse reactions. Describe the macroscopic characteristics of each"
+              ]
+            },
+            {
+              "id": "chemistry-u6-t2",
+              "name": "Le Chatelier's principle",
+              "outcomes": [
+                "State Le Chatelier's principle and be able to apply it to systems in equilibrium with changes in concentration, pressure, temperature or addition of catalyst."
+              ]
+            },
+            {
+              "id": "chemistry-u6-t3",
+              "name": "Solubility Products",
+              "outcomes": [
+                "Define and explain solubility products."
+              ]
+            },
+            {
+              "id": "chemistry-u6-t4",
+              "name": "Common Ion Effect",
+              "outcomes": [
+                "Define and explain the common ion effect by giving suitable examples."
+              ]
+            },
+            {
+              "id": "chemistry-u6-t5",
+              "name": "Buffer Solution",
+              "outcomes": [
+                "Define buffer solution and explain types of buffers."
+              ]
+            },
+            {
+              "id": "chemistry-u6-t6",
+              "name": "Haber's Process",
+              "outcomes": [
+                "Explain synthesis of Ammonia by Haber's process."
+              ]
+            }
+          ]
+        },
+        {
+          "id": "chemistry-u7",
+          "name": "7. Reaction Kinetics",
+          "topics": [
+            {
+              "id": "chemistry-u7-t1",
+              "name": "Chemical Kinetics",
+              "outcomes": [
+                "Define chemical kinetics.",
+                "Explain the terms: rate of reaction, rate equation."
+              ]
+            },
+            {
+              "id": "chemistry-u7-t2",
+              "name": "Factors affecting rate of reaction",
+              "outcomes": [
+                "Explain qualitatively factors affecting rate of reaction."
+              ]
+            },
+            {
+              "id": "chemistry-u7-t3",
+              "name": "Order of Reaction",
+              "outcomes": [
+                "Give the order with respect to the reactant, write the rate law for reaction.",
+                "Explain the meaning of the term 'activation energy' and 'activated complex'.",
+                "Relate the ideas of activation energy and the activated complex to the rate of reaction."
+              ]
+            },
+            {
+              "id": "chemistry-u7-t4",
+              "name": "Rate Constant",
+              "outcomes": [
+                "Describe the role of the rate constant in the theoretical determination of reaction rate."
+              ]
+            }
+          ]
+        },
+        {
+          "id": "chemistry-u8",
+          "name": "8. Thermochemistry and Energetics of Chemical Reaction",
+          "topics": [
+            {
+              "id": "chemistry-u8-t1",
+              "name": "Thermodynamics",
+              "outcomes": [
+                "Define Thermodynamics"
+              ]
+            },
+            {
+              "id": "chemistry-u8-t2",
+              "name": "Exothermic and Endothermic Reaction",
+              "outcomes": [
+                "Classify reactions as exothermic and endothermic"
+              ]
+            },
+            {
+              "id": "chemistry-u8-t3",
+              "name": "Different Terms Used",
+              "outcomes": [
+                "Define the terms system, surrounding, boundary, state function, heat, heat capacity, internal energy, work done and enthalpy of a substance."
+              ]
+            },
+            {
+              "id": "chemistry-u8-t4",
+              "name": "Internal Energies",
+              "outcomes": [
+                "Name and define the units of the Internal energy."
+              ]
+            },
+            {
+              "id": "chemistry-u8-t5",
+              "name": "Law of Thermodynamics",
+              "outcomes": [
+                "Explain the first law of thermodynamics of energy conservation."
+              ]
+            },
+            {
+              "id": "chemistry-u8-t6",
+              "name": "Hess's Law",
+              "outcomes": [
+                "Apply Hess's Law to construct simple energy cycles."
+              ]
+            },
+            {
+              "id": "chemistry-u8-t7",
+              "name": "Enthalpy",
+              "outcomes": [
+                "Describe enthalpy of the reaction"
+              ]
+            }
+          ]
+        },
+        {
+          "id": "chemistry-u9",
+          "name": "9. Electrochemistry",
+          "topics": [
+            {
+              "id": "chemistry-u9-t1",
+              "name": "Redox Reaction",
+              "outcomes": [
+                "Give the characteristics of a redox reaction."
+              ]
+            },
+            {
+              "id": "chemistry-u9-t2",
+              "name": "Oxidation and Reduction",
+              "outcomes": [
+                "Define oxidation and reduction in terms of a change in oxidation number."
+              ]
+            },
+            {
+              "id": "chemistry-u9-t3",
+              "name": "Balancing Chemical Reaction",
+              "outcomes": [
+                "Use the oxidation number change method to identify atoms being oxidized or reduced in redox reactions."
+              ]
+            },
+            {
+              "id": "chemistry-u9-t4",
+              "name": "Standard Hydrogen Electrode (SHE)",
+              "outcomes": [
+                "Define Cathode, anode, electrode potential and S.H.E",
+                "Define the standard electrode potential of an electrode."
+              ]
+            }
+          ]
+        },
+        {
+          "id": "chemistry-u10",
+          "name": "10. Chemical Bonding",
+          "topics": [
+            {
+              "id": "chemistry-u10-t1",
+              "name": "VSEPR Theory",
+              "outcomes": [
+                "Use VSEPR Theory to describe the shapes of the molecules."
+              ]
+            },
+            {
+              "id": "chemistry-u10-t2",
+              "name": "Sigma and Pi Bond",
+              "outcomes": [
+                "Describe the features of sigma and pi-bonds."
+              ]
+            },
+            {
+              "id": "chemistry-u10-t3",
+              "name": "Hybridization",
+              "outcomes": [
+                "Describe the shapes of simple molecules using orbital hybridization."
+              ]
+            },
+            {
+              "id": "chemistry-u10-t4",
+              "name": "Application of VSEPR Theory",
+              "outcomes": [
+                "Determine the shapes of some molecules from the number of the bonded pairs."
+              ]
+            },
+            {
+              "id": "chemistry-u10-t5",
+              "name": "Dipole Movement",
+              "outcomes": [
+                "Predict the molecular polarity from the shapes of molecules."
+              ]
+            },
+            {
+              "id": "chemistry-u10-t6",
+              "name": "Application of Dipole Movement",
+              "outcomes": [
+                "Explain what is meant by the term ionic character of the covalent bond.",
+                "Describe how knowledge of molecular polarity can be used to explain some physical and chemical properties of the molecules."
+              ]
+            },
+            {
+              "id": "chemistry-u10-t7",
+              "name": "Bond Energy",
+              "outcomes": [
+                "Define bond energies and explain how they can be used to compare bond strength of different chemical bonds."
+              ]
+            }
+          ]
+        },
+        {
+          "id": "chemistry-u11",
+          "name": "11. S- and P- Block Elements",
+          "topics": [
+            {
+              "id": "chemistry-u11-t1",
+              "name": "Properties and their Trends",
+              "outcomes": [
+                "Define and explain the terms atomic radii, ionic radii, covalent radii, ionization energy, electron affinity, electronegativity, bond energy and bond length."
+              ]
+            },
+            {
+              "id": "chemistry-u11-t2",
+              "name": "S-, P-, D- & F-Block Elements",
+              "outcomes": [
+                "Recognize the demarcation of the periodic table into S-block, P-block, D-block and F-block."
+              ]
+            },
+            {
+              "id": "chemistry-u11-t3",
+              "name": "Reaction of Group I elements",
+              "outcomes": [
+                "Describe reactions of Group I elements with water, oxygen and chlorine."
+              ]
+            },
+            {
+              "id": "chemistry-u11-t4",
+              "name": "Reaction of Group II elements",
+              "outcomes": [
+                "Describe reactions of Group II elements with water, oxygen and chlorine."
+              ]
+            },
+            {
+              "id": "chemistry-u11-t5",
+              "name": "Reaction of Group IV elements",
+              "outcomes": [
+                "Describe reactions of Group IV Elements."
+              ]
+            }
+          ]
+        },
+        {
+          "id": "chemistry-u12",
+          "name": "12. Transition Elements",
+          "topics": [
+            {
+              "id": "chemistry-u12-t1",
+              "name": "Electronic Structure",
+              "outcomes": [
+                "Describe the electronic structures of the elements and ions of d-block Elements."
+              ]
+            }
+          ]
+        },
+        {
+          "id": "chemistry-u13",
+          "name": "13. Fundamental Principles of Organic Chemistry",
+          "topics": [
+            {
+              "id": "chemistry-u13-t1",
+              "name": "Definition and Classification of Organic Compound",
+              "outcomes": [
+                "Define organic chemistry and organic compound.",
+                "Classify organic compounds on structural basis."
+              ]
+            },
+            {
+              "id": "chemistry-u13-t2",
+              "name": "Functional Group",
+              "outcomes": [
+                "Define functional group."
+              ]
+            },
+            {
+              "id": "chemistry-u13-t3",
+              "name": "Isomerism",
+              "outcomes": [
+                "Explain stereoisomerism and its types."
+              ]
+            }
+          ]
+        },
+        {
+          "id": "chemistry-u14",
+          "name": "14. Chemistry of Hydrocarbons",
+          "topics": [
+            {
+              "id": "chemistry-u14-t1",
+              "name": "Nomenclature of Alkanes",
+              "outcomes": [
+                "Describe the nomenclature of Alkanes."
+              ]
+            },
+            {
+              "id": "chemistry-u14-t2",
+              "name": "Free Radical Mechanism",
+              "outcomes": [
+                "Define Free Radical Initiation, propagation and termination.",
+                "Describe the mechanism of the free radical substitution in alkanes exemplified by Methane and Ethane."
+              ]
+            },
+            {
+              "id": "chemistry-u14-t3",
+              "name": "Nomenclature of Alkenes",
+              "outcomes": [
+                "Explain the IUPAC nomenclature of alkenes."
+              ]
+            },
+            {
+              "id": "chemistry-u14-t4",
+              "name": "Shapes of Alkenes",
+              "outcomes": [
+                "Explain the shapes of the Ethene molecules in terms of Sigma and Pi C-C Bonds."
+              ]
+            },
+            {
+              "id": "chemistry-u14-t5",
+              "name": "Structure and Reactivity of Alkenes",
+              "outcomes": [
+                "Describe the structure and reactivity of Alkenes as exemplified by Ethene."
+              ]
+            },
+            {
+              "id": "chemistry-u14-t6",
+              "name": "Preparation of Alkanes",
+              "outcomes": [
+                "Explain Dehydration of Alcohols and Dehydrohalogenation of RX for the preparation of Ethane"
+              ]
+            },
+            {
+              "id": "chemistry-u14-t7",
+              "name": "MOT of Benzene, Resonance and Resonance Energy",
+              "outcomes": [
+                "Explain the shape of Benzene Molecules (Molecular orbital treatment).",
+                "Define resonance, resonance energy and relative stability."
+              ]
+            },
+            {
+              "id": "chemistry-u14-t8",
+              "name": "Reactivity of Benzene",
+              "outcomes": [
+                "Compare the reactivity of benzene with alkanes and alkenes."
+              ]
+            },
+            {
+              "id": "chemistry-u14-t9",
+              "name": "Chemical Reactions of Benzenes",
+              "outcomes": [
+                "Define addition reactions of benzene and methylbenzene.",
+                "Describe the mechanism of electrophilic substitution in Benzene.",
+                "Discuss chemistry of benzene and methylbenzene by nitration, sulphonation, halogenation, Friedal Craft's Alkylation and acylation."
+              ]
+            },
+            {
+              "id": "chemistry-u14-t10",
+              "name": "Effect of Substituents",
+              "outcomes": [
+                "Apply the knowledge of positions of substituents in the electrophilic substitution of benzene."
+              ]
+            },
+            {
+              "id": "chemistry-u14-t11",
+              "name": "IUPAC System of Alkynes",
+              "outcomes": [
+                "Use the IUPAC naming System of Alkynes."
+              ]
+            },
+            {
+              "id": "chemistry-u14-t12",
+              "name": "Preparation of Alkynes",
+              "outcomes": [
+                "Describe the preparation of Alkynes using elimination reactions."
+              ]
+            },
+            {
+              "id": "chemistry-u14-t13",
+              "name": "Acidity of Alkynes",
+              "outcomes": [
+                "Describe the acidity of alkynes"
+              ]
+            },
+            {
+              "id": "chemistry-u14-t14",
+              "name": "Reactions of Alkynes",
+              "outcomes": [
+                "Discuss chemistry of alkynes by hydrogenation, hydrohalogenation and hydration."
+              ]
+            },
+            {
+              "id": "chemistry-u14-t15",
+              "name": "Substitution vs Addition",
+              "outcomes": [
+                "Describe and differentiate between substitution and Addition reactions."
+              ]
+            }
+          ]
+        },
+        {
+          "id": "chemistry-u15",
+          "name": "15. Alkyl Halides",
+          "topics": [
+            {
+              "id": "chemistry-u15-t1",
+              "name": "Nomenclature, Structure and Reactivity",
+              "outcomes": [
+                "Name Alkyl Halides using IUPAC system.",
+                "Discuss the structure and reactivity of RX."
+              ]
+            },
+            {
+              "id": "chemistry-u15-t2",
+              "name": "Substitution vs Elimination",
+              "outcomes": [
+                "Describe the mechanism and types of nucleophilic substitution reactions.",
+                "Describe the mechanism and types of elimination reactions."
+              ]
+            }
+          ]
+        },
+        {
+          "id": "chemistry-u16",
+          "name": "16. Alcohols and Phenols",
+          "topics": [
+            {
+              "id": "chemistry-u16-t1",
+              "name": "Nomenclature, structure and reactivity of Alcohol",
+              "outcomes": [
+                "Explain nomenclature and structure of Alcohols.",
+                "Explain the reactivity of Alcohols.",
+                "Describe the chemistry of alcohols by preparation of ethers and esters."
+              ]
+            },
+            {
+              "id": "chemistry-u16-t2",
+              "name": "Nomenclature, structure and reactivity of Phenols",
+              "outcomes": [
+                "Explain the nomenclature, structure and reactivity of Phenol",
+                "Discuss the reactivity of phenol and their chemistry by electrophilic aromatic substitution."
+              ]
+            },
+            {
+              "id": "chemistry-u16-t3",
+              "name": "Alcohols and Phenols",
+              "outcomes": [
+                "Differentiate between an alcohol and phenol."
+              ]
+            }
+          ]
+        },
+        {
+          "id": "chemistry-u17",
+          "name": "17. Aldehydes and Ketones",
+          "topics": [
+            {
+              "id": "chemistry-u17-t1",
+              "name": "Nomenclature and structure of Aldehydes and Ketones",
+              "outcomes": [
+                "Explain nomenclature and structure of Aldehydes and Ketones."
+              ]
+            },
+            {
+              "id": "chemistry-u17-t2",
+              "name": "Preparation",
+              "outcomes": [
+                "Discuss the preparation of aldehydes and ketones."
+              ]
+            },
+            {
+              "id": "chemistry-u17-t3",
+              "name": "Reactivity of Aldehydes and Ketones",
+              "outcomes": [
+                "Describe Reactivity of Aldehydes and Ketones and their comparison."
+              ]
+            },
+            {
+              "id": "chemistry-u17-t4",
+              "name": "Reaction of Aldehydes and Ketones",
+              "outcomes": [
+                "Describe Acid and Base catalyzed Nucleophilic addition reactions of aldehydes and ketones.",
+                "Discuss the chemistry of Aldehydes and Ketones by their reduction to alcohols",
+                "Describe oxidation reactions of aldehydes and ketones."
+              ]
+            }
+          ]
+        },
+        {
+          "id": "chemistry-u18",
+          "name": "18. Carboxylic Acids",
+          "topics": [
+            {
+              "id": "chemistry-u18-t1",
+              "name": "Nomenclature, Structure and Preparation of Carboxylic Acid",
+              "outcomes": [
+                "Describe nomenclature, Structure and Preparation of Carboxylic Acid."
+              ]
+            },
+            {
+              "id": "chemistry-u18-t2",
+              "name": "Chemical Reactions/Reactivity",
+              "outcomes": [
+                "Discuss reactivity of carboxylic acid."
+              ]
+            },
+            {
+              "id": "chemistry-u18-t3",
+              "name": "Conversion of Carboxylic Acid",
+              "outcomes": [
+                "Describe the Chemistry of carboxylic acid by conversion to carboxylic acid derivatives: acyl halides, acid anhydrides, esters and reactions involving conversion of these."
+              ]
+            }
+          ]
+        },
+        {
+          "id": "chemistry-u19",
+          "name": "19. Macromolecules",
+          "topics": [
+            {
+              "id": "chemistry-u19-t1",
+              "name": "Classification of Proteins",
+              "outcomes": [
+                "Explain the basis of classification and structure function relationship of proteins."
+              ]
+            },
+            {
+              "id": "chemistry-u19-t2",
+              "name": "Importance of Proteins",
+              "outcomes": [
+                "Describe the role of various proteins in maintaining body functions and their nutritional importance."
+              ]
+            },
+            {
+              "id": "chemistry-u19-t3",
+              "name": "Enzymes as Biocatalyst",
+              "outcomes": [
+                "Describe the role of enzymes as Biocatalyst."
+              ]
+            }
+          ]
+        },
+        {
+          "id": "chemistry-u20",
+          "name": "20. Industrial Chemistry",
+          "topics": [
+            {
+              "id": "chemistry-u20-t1",
+              "name": "Adhesive",
+              "outcomes": [
+                "Know about types and application of Adhesive."
+              ]
+            },
+            {
+              "id": "chemistry-u20-t2",
+              "name": "Dyes",
+              "outcomes": [
+                "Know about types of dyes and their uses."
+              ]
+            },
+            {
+              "id": "chemistry-u20-t3",
+              "name": "Polymers",
+              "outcomes": [
+                "Know about condensation and addition polymers and their sub-types."
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "key": "physics",
+      "label": "Physics",
+      "weightage_percent": 20,
+      "mcqs": 36,
+      "units": [
+        {
+          "id": "physics-u1",
+          "name": "1. Vectors and Equilibrium",
+          "topics": [
+            {
+              "id": "physics-u1-t1",
+              "name": "Addition of Vectors (Rectangular Components)",
+              "outcomes": [
+                "Determine the sum of vectors using perpendicular components"
+              ]
+            },
+            {
+              "id": "physics-u1-t2",
+              "name": "Product of Vectors (Scalar Product)",
+              "outcomes": [
+                "Describe Scalar Product of two vectors in terms of angle between them"
+              ]
+            },
+            {
+              "id": "physics-u1-t3",
+              "name": "Product of Vectors (Vector Product)",
+              "outcomes": [
+                "Describe Vector product of two vectors in terms of angle between them."
+              ]
+            }
+          ]
+        },
+        {
+          "id": "physics-u2",
+          "name": "2. Force and Motion",
+          "topics": [
+            {
+              "id": "physics-u2-t1",
+              "name": "Displacement",
+              "outcomes": [
+                "Describe displacement."
+              ]
+            },
+            {
+              "id": "physics-u2-t2",
+              "name": "Velocity",
+              "outcomes": [
+                "Describe average velocity of objects."
+              ]
+            },
+            {
+              "id": "physics-u2-t3",
+              "name": "Displacement-time Graph",
+              "outcomes": [
+                "Interpret displacement-time graph of objects moving along the same straight line."
+              ]
+            },
+            {
+              "id": "physics-u2-t4",
+              "name": "Acceleration",
+              "outcomes": [
+                "Describe acceleration"
+              ]
+            },
+            {
+              "id": "physics-u2-t5",
+              "name": "Uniform and variable acceleration",
+              "outcomes": [
+                "Distinguish between uniform and variable acceleration."
+              ]
+            },
+            {
+              "id": "physics-u2-t6",
+              "name": "Projectile motion",
+              "outcomes": [
+                "Explain that projectile motion is two-dimensional motion in a vertical plane."
+              ]
+            },
+            {
+              "id": "physics-u2-t7",
+              "name": "Ideal Projectile",
+              "outcomes": [
+                "Communicate the ideas of a projectile in the absence of air resistance."
+              ]
+            },
+            {
+              "id": "physics-u2-t8",
+              "name": "Projectile motion (Velocity)",
+              "outcomes": [
+                "Explain Horizontal component (VH) of velocity is constant.",
+                "Acceleration is in the vertical direction and is the same as that of a vertically free-falling object.",
+                "Differentiate between the characteristics of horizontal motion and vertical motion"
+              ]
+            },
+            {
+              "id": "physics-u2-t9",
+              "name": "Projectile motion: Maximum Height, Range, Time of Flight, Maximum angle",
+              "outcomes": [
+                "Evaluate, using equations of uniformly accelerated motion for a given initial velocity of a frictionless projectile: how high it goes, how far it travels, its position after a given time, total time in air, launch parameters from ground height, the angle for maximum range, and the relation between angles giving the same range."
+              ]
+            },
+            {
+              "id": "physics-u2-t10",
+              "name": "Newton's Laws of motion",
+              "outcomes": [
+                "Apply Newton's laws to explain the motion of objects in a variety of contexts."
+              ]
+            },
+            {
+              "id": "physics-u2-t11",
+              "name": "Newton's Second Law and Linear momentum",
+              "outcomes": [
+                "Describe Newton's second law of motion as rate of change of momentum."
+              ]
+            },
+            {
+              "id": "physics-u2-t12",
+              "name": "Newton's third law of motion",
+              "outcomes": [
+                "Correlate Newton's third law of motion and conservation of momentum."
+              ]
+            },
+            {
+              "id": "physics-u2-t13",
+              "name": "Collision",
+              "outcomes": [
+                "Solve different problems of elastic and inelastic collisions between two bodies in one dimension using the law of conservation of momentum."
+              ]
+            },
+            {
+              "id": "physics-u2-t14",
+              "name": "Momentum and Explosive forces",
+              "outcomes": [
+                "Describe that momentum is conserved in explosive situations."
+              ]
+            },
+            {
+              "id": "physics-u2-t15",
+              "name": "Perfectly elastic collision in one dimension",
+              "outcomes": [
+                "Identify that for a perfectly elastic collision, the relative speed of approach is equal to the relative speed of separation."
+              ]
+            }
+          ]
+        },
+        {
+          "id": "physics-u3",
+          "name": "3. Work and Energy",
+          "topics": [
+            {
+              "id": "physics-u3-t1",
+              "name": "Work",
+              "outcomes": [
+                "Describe the concept of work in terms of the product of force F and displacement d in the direction of force"
+              ]
+            },
+            {
+              "id": "physics-u3-t2",
+              "name": "Energy",
+              "outcomes": [
+                "Describe energy"
+              ]
+            },
+            {
+              "id": "physics-u3-t3",
+              "name": "Kinetic Energy",
+              "outcomes": [
+                "Explain kinetic energy"
+              ]
+            },
+            {
+              "id": "physics-u3-t4",
+              "name": "Potential energy",
+              "outcomes": [
+                "Explain the difference between potential energy and gravitational potential energy."
+              ]
+            },
+            {
+              "id": "physics-u3-t5",
+              "name": "Absolute potential energy",
+              "outcomes": [
+                "Describe that the gravitational potential energy is measured from a reference level and can be positive or negative, to denote the orientation from the reference levels."
+              ]
+            },
+            {
+              "id": "physics-u3-t6",
+              "name": "Power",
+              "outcomes": [
+                "Express power as scalar product of force and velocity."
+              ]
+            },
+            {
+              "id": "physics-u3-t7",
+              "name": "Work energy theorem in resistive medium",
+              "outcomes": [
+                "Explain that work done against friction is dissipated as heat in the environment."
+              ]
+            },
+            {
+              "id": "physics-u3-t8",
+              "name": "Implications of energy losses in practical devices and Efficiency",
+              "outcomes": [
+                "State the implications of energy losses in practical devices"
+              ]
+            }
+          ]
+        },
+        {
+          "id": "physics-u4",
+          "name": "4. Rotational and Circular Motion",
+          "topics": [
+            {
+              "id": "physics-u4-t1",
+              "name": "Angular displacement",
+              "outcomes": [
+                "Define angular displacement, express angular displacement in radians.",
+                "Define revolution, degree and radian"
+              ]
+            },
+            {
+              "id": "physics-u4-t2",
+              "name": "Angular Velocity",
+              "outcomes": [
+                "Describe the term angular velocity"
+              ]
+            },
+            {
+              "id": "physics-u4-t3",
+              "name": "Relation between angular and linear quantities",
+              "outcomes": [
+                "Find out the relationship between linear and angular variables, displacements, velocities and accelerations."
+              ]
+            }
+          ]
+        },
+        {
+          "id": "physics-u5",
+          "name": "5. Fluid Dynamics",
+          "topics": [
+            {
+              "id": "physics-u5-t1",
+              "name": "Terminal Velocity",
+              "outcomes": [
+                "Describe the terminal velocity of an object."
+              ]
+            },
+            {
+              "id": "physics-u5-t2",
+              "name": "Fluid Drag",
+              "outcomes": [
+                "Define and explain the term fluid drag."
+              ]
+            },
+            {
+              "id": "physics-u5-t3",
+              "name": "Fluid Flow",
+              "outcomes": [
+                "Define the terms: Steady (Streamline or laminar) flow, Incompressible flow and non-viscous flow as applied to the motion of an ideal fluid.",
+                "Explain that at sufficiently high velocity, the flow of viscous fluid undergoes a transition from laminar to turbulent conditions.",
+                "Describe that majority of practical examples of fluid flow and resistance to motion involve turbulent rather than laminar conditions"
+              ]
+            },
+            {
+              "id": "physics-u5-t4",
+              "name": "Equation of Continuity",
+              "outcomes": [
+                "Describe equation of continuity Av=constant for the flow of an ideal and incompressible fluid and solve problems using it.",
+                "Identify that the equation of continuity is the form of principle of conservation of mass."
+              ]
+            },
+            {
+              "id": "physics-u5-t5",
+              "name": "Bernoulli's Equation",
+              "outcomes": [
+                "Interpret and apply Bernoulli's effect in Blood physics.",
+                "Derive Bernoulli's equation for the case of horizontal tube of flow",
+                "Describe how pressure differences can arise from different rates of flow of fluid (Bernoulli's effect)."
+              ]
+            }
+          ]
+        },
+        {
+          "id": "physics-u6",
+          "name": "6. Waves",
+          "topics": [
+            {
+              "id": "physics-u6-t1",
+              "name": "Motion of wave",
+              "outcomes": [
+                "Describe the meaning of wave motion as illustrated by vibrations in ropes and springs."
+              ]
+            },
+            {
+              "id": "physics-u6-t2",
+              "name": "Progressive waves",
+              "outcomes": [
+                "Demonstrate that mechanical waves require a medium for their propagation while electromagnetic waves do not."
+              ]
+            },
+            {
+              "id": "physics-u6-t3",
+              "name": "Characteristics of wave",
+              "outcomes": [
+                "Define and apply the following terms to the wave model: medium, displacement, amplitude, period, compression, rarefaction, crest, trough, wavelength, velocity."
+              ]
+            },
+            {
+              "id": "physics-u6-t4",
+              "name": "Wave Speed",
+              "outcomes": [
+                "Solve problems using the equation: v = fλ."
+              ]
+            },
+            {
+              "id": "physics-u6-t5",
+              "name": "Progressive waves (energy)",
+              "outcomes": [
+                "Describe that energy is transferred due to a progressive wave."
+              ]
+            },
+            {
+              "id": "physics-u6-t6",
+              "name": "Classification of progressive waves",
+              "outcomes": [
+                "Compare transverse and longitudinal waves."
+              ]
+            },
+            {
+              "id": "physics-u6-t7",
+              "name": "Speed of sound, Newton's Formula for speed of sound in air",
+              "outcomes": [
+                "Explain that speed of sound depends on the properties of the medium in which it propagates and describe Newton's formula of speed of waves."
+              ]
+            },
+            {
+              "id": "physics-u6-t8",
+              "name": "Laplace's Correction",
+              "outcomes": [
+                "Describe the Laplace correction in Newton's formula for speed of sound in air."
+              ]
+            },
+            {
+              "id": "physics-u6-t9",
+              "name": "Effect of various factors on speed of sound",
+              "outcomes": [
+                "Identify the factors on which speed of sound in air depends."
+              ]
+            },
+            {
+              "id": "physics-u6-t10",
+              "name": "Superposition of waves",
+              "outcomes": [
+                "Describe the principle of superposition of two waves from coherent sources."
+              ]
+            },
+            {
+              "id": "physics-u6-t11",
+              "name": "Interference of sound waves",
+              "outcomes": [
+                "Describe the phenomenon of interference of sound waves."
+              ]
+            },
+            {
+              "id": "physics-u6-t12",
+              "name": "Stationary waves",
+              "outcomes": [
+                "Explain the formation of stationary waves using graphical method",
+                "Define the terms node and antinode."
+              ]
+            },
+            {
+              "id": "physics-u6-t13",
+              "name": "Stationary waves in a stretched string",
+              "outcomes": [
+                "Describe modes of vibration of strings."
+              ]
+            },
+            {
+              "id": "physics-u6-t14",
+              "name": "Organ pipes",
+              "outcomes": [
+                "Describe formation of stationary waves in vibrating air columns."
+              ]
+            },
+            {
+              "id": "physics-u6-t15",
+              "name": "Superposition of waves (principle)",
+              "outcomes": [
+                "Explain the principle of Superposition"
+              ]
+            },
+            {
+              "id": "physics-u6-t16",
+              "name": "Simple Harmonic Motion, Terminologies of SHM, Circular motion and SHM, Energy",
+              "outcomes": [
+                "Explain Simple Harmonic Motion (S.H.M) and explain the characteristics of S.H.M."
+              ]
+            },
+            {
+              "id": "physics-u6-t17",
+              "name": "Circular Motion and SHM (Acceleration and Velocity of Projection)",
+              "outcomes": [
+                "Describe that when an object moves in a circle, the motion of its projection on the diameter of a circle is SHM."
+              ]
+            }
+          ]
+        },
+        {
+          "id": "physics-u7",
+          "name": "7. Thermodynamics",
+          "topics": [
+            {
+              "id": "physics-u7-t1",
+              "name": "Thermal equilibrium, Heat",
+              "outcomes": [
+                "Describe that thermal energy is transferred from a region of higher temperature to a region of lower temperature."
+              ]
+            },
+            {
+              "id": "physics-u7-t2",
+              "name": "Molar specific heat of gas",
+              "outcomes": [
+                "Differentiate between specific heat and molar specific heat."
+              ]
+            },
+            {
+              "id": "physics-u7-t3",
+              "name": "Work",
+              "outcomes": [
+                "Calculate work done by a thermodynamic system during a volume change."
+              ]
+            },
+            {
+              "id": "physics-u7-t4",
+              "name": "First law of thermodynamics",
+              "outcomes": [
+                "Describe the first law of thermodynamics expressed in terms of the change in internal energy, the heating of the system and work done on the system.",
+                "Explain that the first law of thermodynamics expresses the conservation of energy."
+              ]
+            },
+            {
+              "id": "physics-u7-t5",
+              "name": "Molar specific heat of gas (terms)",
+              "outcomes": [
+                "Define the terms specific heat and molar specific heats of a gas."
+              ]
+            },
+            {
+              "id": "physics-u7-t6",
+              "name": "Relation between molar specific heat at constant volume and constant pressure",
+              "outcomes": [
+                "Apply the first law of thermodynamics to derive the relation Cp − Cv = R for an ideal gas"
+              ]
+            }
+          ]
+        },
+        {
+          "id": "physics-u8",
+          "name": "8. Electrostatics",
+          "topics": [
+            {
+              "id": "physics-u8-t1",
+              "name": "Coulomb's Law",
+              "outcomes": [
+                "State Coulomb's law and explain that force between two-point charges is reduced in a medium other than free space using Coulomb's law"
+              ]
+            },
+            {
+              "id": "physics-u8-t2",
+              "name": "Electric Field",
+              "outcomes": [
+                "Describe the concept of an electric field as an example of a field of force"
+              ]
+            },
+            {
+              "id": "physics-u8-t3",
+              "name": "Electric field intensity due to a point charge; Representation of electric field by lines",
+              "outcomes": [
+                "Calculate the magnitude and direction of the electric field at a point due to two charges with the same or opposite signs",
+                "Sketch the electric field lines for two-point charges of equal magnitude with same or opposite signs"
+              ]
+            },
+            {
+              "id": "physics-u8-t4",
+              "name": "Electric field intensity due to an infinite sheet of charges",
+              "outcomes": [
+                "Describe and draw the electric field due to an infinite size conducting plate of positive or negative charge"
+              ]
+            },
+            {
+              "id": "physics-u8-t5",
+              "name": "Electric potential energy and potential due to a point charge",
+              "outcomes": [
+                "Define electric potential at a point in terms of the work done in bringing unit positive charge from infinity to that point"
+              ]
+            },
+            {
+              "id": "physics-u8-t6",
+              "name": "Electric potential",
+              "outcomes": [
+                "Define the unit of potential"
+              ]
+            },
+            {
+              "id": "physics-u8-t7",
+              "name": "Electric potential energy and potential due to a point charge (expression)",
+              "outcomes": [
+                "Derive an expression for electric potential at a point due to a point charge"
+              ]
+            },
+            {
+              "id": "physics-u8-t8",
+              "name": "Charging and discharging of a capacitor through a resistance",
+              "outcomes": [
+                "Demonstrate charging and discharging of a capacitor through a resistance"
+              ]
+            }
+          ]
+        },
+        {
+          "id": "physics-u9",
+          "name": "9. Current Electricity",
+          "topics": [
+            {
+              "id": "physics-u9-t1",
+              "name": "Steady current",
+              "outcomes": [
+                "Describe the concept of steady current."
+              ]
+            },
+            {
+              "id": "physics-u9-t2",
+              "name": "Ohm's Law",
+              "outcomes": [
+                "State Ohm's law."
+              ]
+            },
+            {
+              "id": "physics-u9-t3",
+              "name": "Factors on which resistance depends; Temperature coefficient of resistivity",
+              "outcomes": [
+                "Define resistivity and explain its dependence upon temperature."
+              ]
+            },
+            {
+              "id": "physics-u9-t4",
+              "name": "Internal resistance of sources",
+              "outcomes": [
+                "Explain the internal resistance of sources and its consequences for external circuits."
+              ]
+            },
+            {
+              "id": "physics-u9-t5",
+              "name": "Maximum power Output",
+              "outcomes": [
+                "Describe the conditions for maximum power transfer."
+              ]
+            }
+          ]
+        },
+        {
+          "id": "physics-u10",
+          "name": "10. Electromagnetism",
+          "topics": [
+            {
+              "id": "physics-u10-t1",
+              "name": "Magnetic flux density/Magnetic field",
+              "outcomes": [
+                "Define magnetic flux density and its units."
+              ]
+            },
+            {
+              "id": "physics-u10-t2",
+              "name": "Magnetic flux",
+              "outcomes": [
+                "Describe the concept of magnetic flux Φ (Phi) as scalar product of magnetic field (B) and area (A) using the relation ØB = B⊥A = B.A."
+              ]
+            },
+            {
+              "id": "physics-u10-t3",
+              "name": "Motion of charged particle in magnetic field",
+              "outcomes": [
+                "Describe quantitatively the path followed by a charged particle shot into a magnetic field in a direction perpendicular to the field.",
+                "Explain that a force may act on a charged particle in a uniform magnetic field."
+              ]
+            }
+          ]
+        },
+        {
+          "id": "physics-u11",
+          "name": "11. Electromagnetic Induction",
+          "topics": [
+            {
+              "id": "physics-u11-t1",
+              "name": "Faraday's Law of electromagnetic induction",
+              "outcomes": [
+                "State Faraday's law of electromagnetic induction."
+              ]
+            },
+            {
+              "id": "physics-u11-t2",
+              "name": "Lenz's Law",
+              "outcomes": [
+                "Account for Lenz's law to predict the direction of an induced current and relate to the principle of conservation of energy."
+              ]
+            },
+            {
+              "id": "physics-u11-t3",
+              "name": "Transformer",
+              "outcomes": [
+                "Describe the construction of a transformer and explain how it works.",
+                "Describe how step-up and step-down transformers can be used to ensure efficient transfer of electricity along cables."
+              ]
+            }
+          ]
+        },
+        {
+          "id": "physics-u12",
+          "name": "12. Alternating Current",
+          "topics": [
+            {
+              "id": "physics-u12-t1",
+              "name": "Phase of Alternating Current",
+              "outcomes": [
+                "Describe the phase of Alternating Current and explain how phase lag and phase lead occur in AC circuits"
+              ]
+            },
+            {
+              "id": "physics-u12-t2",
+              "name": "AC through Resistor, Capacitor, Inductor",
+              "outcomes": [
+                "Explain the flow of AC through resistors, capacitors and inductors"
+              ]
+            },
+            {
+              "id": "physics-u12-t3",
+              "name": "Electromagnetic waves",
+              "outcomes": [
+                "Become familiar with the EM spectrum (ranging from radio waves to Gamma rays)"
+              ]
+            }
+          ]
+        },
+        {
+          "id": "physics-u13",
+          "name": "13. Electronics",
+          "topics": [
+            {
+              "id": "physics-u13-t1",
+              "name": "Rectification",
+              "outcomes": [
+                "Define rectification and describe the use of diodes for half and full wave rectification."
+              ]
+            },
+            {
+              "id": "physics-u13-t2",
+              "name": "PN Junction",
+              "outcomes": [
+                "Describe the PN Junction and discuss its forward and reverse biasing"
+              ]
+            }
+          ]
+        },
+        {
+          "id": "physics-u14",
+          "name": "14. Dawn of Modern Physics",
+          "topics": [
+            {
+              "id": "physics-u14-t1",
+              "name": "Quantum Theory and Radiation",
+              "outcomes": [
+                "Explain the particle model of light in terms of photons with energy"
+              ]
+            }
+          ]
+        },
+        {
+          "id": "physics-u15",
+          "name": "15. Atomic Spectra",
+          "topics": [
+            {
+              "id": "physics-u15-t1",
+              "name": "Atomic Spectra",
+              "outcomes": [
+                "Describe and explain atomic spectra/ line spectrum"
+              ]
+            }
+          ]
+        },
+        {
+          "id": "physics-u16",
+          "name": "16. Nuclear Physics",
+          "topics": [
+            {
+              "id": "physics-u16-t1",
+              "name": "Composition of atomic nuclei",
+              "outcomes": [
+                "Describe a simple model for the atom to include protons, neutrons and electrons"
+              ]
+            },
+            {
+              "id": "physics-u16-t2",
+              "name": "Spontaneous and random nuclear decay",
+              "outcomes": [
+                "Identify the spontaneous and random nature of nuclear decay."
+              ]
+            },
+            {
+              "id": "physics-u16-t3",
+              "name": "Half-life and rate of decay",
+              "outcomes": [
+                "Describe the term half-life and solve problems using the equation λ = 0.693 / T½."
+              ]
+            },
+            {
+              "id": "physics-u16-t4",
+              "name": "Biological and Medical uses of radiation",
+              "outcomes": [
+                "Describe biological effects of radiation and explain the different medical uses of radiation."
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "key": "english",
+      "label": "English",
+      "weightage_percent": 5,
+      "mcqs": 9,
+      "units": [
+        {
+          "id": "english-u1",
+          "name": "1. Reading and Thinking Skills",
+          "topics": [
+            {
+              "id": "english-u1-t1",
+              "name": "Reading comprehension, contextual/figurative language",
+              "outcomes": [
+                "Scan to answer short questions",
+                "Deduce the meanings from context",
+                "Analyze how a writer/poet uses language to appeal to the senses through figurative language"
+              ]
+            }
+          ]
+        },
+        {
+          "id": "english-u2",
+          "name": "2. Formal and Lexical Aspect of Language",
+          "topics": [
+            {
+              "id": "english-u2-t1",
+              "name": "Vocabulary, grammar, sentence structure",
+              "outcomes": [
+                "Deduce the meaning of difficult words from the context using contextual clues.",
+                "Explore the use of synonyms with varying shades of meaning used for irony, parody and satire.",
+                "Illustrate use of pronoun-antecedent agreement.",
+                "Illustrate use of tenses.",
+                "Illustrate use of infinitives and infinitive phrases.",
+                "Illustrate the use of gerunds and gerund phrases.",
+                "Recognize varying position of adverbs in sentences according to their kinds and importance.",
+                "Illustrate use of prepositions of position, time, movement and direction.",
+                "Use appropriate transitional devices in speech and writing.",
+                "Illustrate use of all punctuation marks wherever applicable.",
+                "Analyze sentences for different classes and phrases, and evaluate how their position changes meaning and communicative function.",
+                "Recognize and use sentence inversion for various purposes.",
+                "Use active and passive voice appropriately according to the required communicative function.",
+                "Use direct and indirect speech appropriately according to the required communicative function."
+              ]
+            }
+          ]
+        },
+        {
+          "id": "english-u3",
+          "name": "3. Writing Skills",
+          "topics": [
+            {
+              "id": "english-u3-t1",
+              "name": "Proofreading and editing",
+              "outcomes": [
+                "Proofread and edit their own, peers', and given text for errors of usage and style.",
+                "Identify faulty sentence structure",
+                "Identify subject-verb agreement errors",
+                "Identify errors of function words and spelling"
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "key": "logical_reasoning",
+      "label": "Logical Reasoning",
+      "weightage_percent": 5,
+      "mcqs": 9,
+      "units": [
+        {
+          "id": "logical_reasoning-u1",
+          "name": "5.1 Critical Thinking",
+          "topics": [
+            {
+              "id": "logical_reasoning-u1-t1",
+              "name": "Evaluating truth and reasonableness of beliefs",
+              "outcomes": [
+                "Develop logical arguments for statements to be true or false.",
+                "Give reasons for the right beliefs.",
+                "Identify and critically evaluate false beliefs using logical reasoning."
+              ]
+            }
+          ]
+        },
+        {
+          "id": "logical_reasoning-u2",
+          "name": "5.2 Letter and Symbol Series",
+          "topics": [
+            {
+              "id": "logical_reasoning-u2-t1",
+              "name": "Sequential order of letters, numbers or both",
+              "outcomes": [
+                "Develop arithmetical operations as per numbers.",
+                "Develop geometrical progression as per numbers.",
+                "Develop series/sequential orders as per letters and symbols (according to specific rules)."
+              ]
+            }
+          ]
+        },
+        {
+          "id": "logical_reasoning-u3",
+          "name": "5.3 Logical Deductions",
+          "topics": [
+            {
+              "id": "logical_reasoning-u3-t1",
+              "name": "Structured thinking to deduce accurate responses",
+              "outcomes": [
+                "Predict new relations on the basis of given relations.",
+                "Develop new structures on the basis of information in already drawn structures."
+              ]
+            }
+          ]
+        },
+        {
+          "id": "logical_reasoning-u4",
+          "name": "5.4 Logical Problems",
+          "topics": [
+            {
+              "id": "logical_reasoning-u4-t1",
+              "name": "Puzzles requiring deductive reasoning",
+              "outcomes": [
+                "Infer the result of one problem to resolve another problem.",
+                "Develop skills to solve puzzles."
+              ]
+            }
+          ]
+        },
+        {
+          "id": "logical_reasoning-u5",
+          "name": "5.5 Course of Action",
+          "topics": [
+            {
+              "id": "logical_reasoning-u5-t1",
+              "name": "Administrative decisions based on given information",
+              "outcomes": [
+                "Develop skills to gather different parts of information.",
+                "Use information for making decisions.",
+                "Judge different courses of action by using arguments."
+              ]
+            }
+          ]
+        },
+        {
+          "id": "logical_reasoning-u6",
+          "name": "5.6 Cause and Effect",
+          "topics": [
+            {
+              "id": "logical_reasoning-u6-t1",
+              "name": "Relationship between events and their causes",
+              "outcomes": [
+                "Give reasons for incidents/events and accidents.",
+                "Reject false beliefs through valid arguments.",
+                "Build positive thinking in society through strong arguments."
+              ]
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
